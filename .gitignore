@@ -21,6 +21,16 @@ autoproperty
 account
 temperature
 
+# Урок 3
+inherit_basic
+inherit_override
+inherit_constructor
+inherit_extend
+inherit_inherited
+animals
+figures
+employees
+
 # ============================================
 # Объектные файлы и модули Free Pascal
 # ============================================
