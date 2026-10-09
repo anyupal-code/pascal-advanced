@@ -41,6 +41,21 @@ vehicles
 units
 type_check
 
+# Урок 5
+try_except
+multiple_handlers
+try_finally
+raise_demo
+custom_exception
+student_exception
+safe_input
+rect_exception
+
+# ============================================
+# Рабочие файлы примеров (создаются при запуске)
+# ============================================
+demo.txt
+
 # ============================================
 # Объектные файлы и модули Free Pascal
 # ============================================
