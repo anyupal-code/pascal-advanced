@@ -71,6 +71,16 @@ linq_where
 linq_aggregate
 word_count
 
+# Урок 8
+bubble
+selection
+insertion
+quick
+merge
+builtin_sort
+binary_search
+compare_search
+
 # ============================================
 # Рабочие файлы примеров (создаются при запуске)
 # ============================================
