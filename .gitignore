@@ -51,6 +51,16 @@ student_exception
 safe_input
 rect_exception
 
+# Урок 6
+interface_basic
+interface_array
+multiple_interfaces
+interface_inherit
+interface_contract
+shapes_interface
+printable
+is_as_interface
+
 # ============================================
 # Рабочие файлы примеров (создаются при запуске)
 # ============================================
