@@ -61,6 +61,16 @@ shapes_interface
 printable
 is_as_interface
 
+# Урок 7
+list_basic
+list_of_objects
+dictionary
+hashset
+stack_queue
+linq_where
+linq_aggregate
+word_count
+
 # ============================================
 # Рабочие файлы примеров (создаются при запуске)
 # ============================================
